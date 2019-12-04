@@ -2,6 +2,12 @@
 Bluesky Browser
 ***************
 
+**This prototype has been archived. Development of the visualization components
+is proceeding in the new project
+[bluesky-mpl](https://github.com/bluesky/bluesky-mpl).
+Development of the the search GUI is proceeding in the project
+[Xi-cam.gui](https://github.com/synchrotrons/Xi-cam.gui/pulls).**
+
 A library of Qt widgets for searching saved bluesky data and viewing document
 streams either live or from disk.
 
